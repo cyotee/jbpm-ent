@@ -1,3 +1,5 @@
+FROM jboss/base-jdk:7
+
 MAINTAINER "Robert Greathouse" "robert@opensourcearchitect.co"
 
 USER root
